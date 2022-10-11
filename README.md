@@ -42,8 +42,9 @@
 <img width="1904" alt="Снимок экрана 2022-10-12 в 01 16 28" src="https://user-images.githubusercontent.com/79734984/195210728-9b5128c0-8579-4c14-8631-46fdf9346bbb.png">
 
 - Добавление google drive и google sheets api
-<img width="1904" alt="Снимок экрана 2022-10-12 в 01 17 24" src="https://user-images.githubusercontent.com/79734984/195210944-1d11473c-b73d-465d-84e7-1d38273bbbe4.png">
-<img width="1904" alt="Снимок экрана 2022-10-12 в 01 17 41" src="https://user-images.githubusercontent.com/79734984/195210946-ea9849ad-42ec-48f8-bee1-d5e0132503d1.png">
+<img width="1036" alt="Снимок экрана 2022-10-12 в 01 22 54" src="https://user-images.githubusercontent.com/79734984/195213588-7586bd78-ffe7-4771-86e6-037c563ff76e.png">
+<img width="1036" alt="Снимок экрана 2022-10-12 в 01 23 44" src="https://user-images.githubusercontent.com/79734984/195213592-03a0ddfe-45dc-4f4b-b924-2626f61d7c48.png">
+
 
 - Создание проекта python с виртуальным окружением и добавление JSON файла
 ![Снимок экрана 2022-10-12 в 01 14 35](https://user-images.githubusercontent.com/79734984/195211254-54aaca85-2baf-484b-9dac-98bd271a17b9.png)
