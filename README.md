@@ -1,5 +1,5 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
-Отчет по лабораторной работе #1 выполнил:
+Отчет по лабораторной работе #2 выполнил:
 - Волков Кирилл Дмитриевич
 - РИ210914
 Отметка о выполнении заданий (заполняется студентом):
@@ -55,7 +55,7 @@
 ![Снимок экрана 2022-10-12 в 01 32 57](https://user-images.githubusercontent.com/79734984/195211425-ddd9e056-2a61-4ae2-8f73-9912cc4f3926.png)
 <img width="1036" alt="Снимок экрана 2022-10-12 в 01 23 44" src="https://user-images.githubusercontent.com/79734984/195211420-939054e7-892c-4926-990b-045c29ef741d.png">
 
-- Добавление данных в таблицу с помощью скрипта
+- Добавление данных в таблицу с помощью скрипта, [ссылка на скрипт](https://github.com/caimanchik/secondLab/blob/main/main.py)
 ![Снимок экрана 2022-10-12 в 01 34 01](https://user-images.githubusercontent.com/79734984/195211534-fc597003-aa45-446a-851a-c5ccccfea1ee.png)
 <img width="1904" alt="Снимок экрана 2022-10-12 в 01 34 14" src="https://user-images.githubusercontent.com/79734984/195211576-8192815d-2b74-4f20-b5e0-63689dc33fc0.png">
 
@@ -73,7 +73,7 @@
 <img width="1792" alt="Снимок экрана 2022-10-12 в 01 45 44" src="https://user-images.githubusercontent.com/79734984/195212000-762474fa-02e1-4aa6-aec3-46d410e97328.png">
 <img width="1792" alt="Снимок экрана 2022-10-12 в 01 46 56" src="https://user-images.githubusercontent.com/79734984/195212003-447bc1a7-6207-48cc-834a-cbaa5f3f0b55.png">
 
-- Скрипт включения разных вариантов звука при определенных условиях
+- Скрипт включения разных вариантов звука при определенных условиях, [ссылка на скрипт](https://github.com/caimanchik/secondLab/blob/main/NewBehaviourScript.cs)
 <img width="1792" alt="Снимок экрана 2022-10-12 в 03 45 25" src="https://user-images.githubusercontent.com/79734984/195212191-b27b8b22-28b5-43f9-8a6e-770866d03564.png">
 <img width="1792" alt="Снимок экрана 2022-10-12 в 03 45 46" src="https://user-images.githubusercontent.com/79734984/195212195-78736631-4109-42f1-a676-8f0337e4a1e6.png">
 <img width="1792" alt="Снимок экрана 2022-10-12 в 03 45 53" src="https://user-images.githubusercontent.com/79734984/195212197-2f0c0943-2b4d-47de-a418-e8ebb4236bfc.png">
