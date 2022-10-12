@@ -43,6 +43,7 @@ sh = gc.open("UnitySheets")
 mon = list(range(1, 11))
 
 
+
 i = 0
 while i <= len(mon):
     i += 1
@@ -52,7 +53,6 @@ while i <= len(mon):
         a, b = iterate(a, b, x, y, 150)
         loss = loss_function(a, b, x, y)
 
-        temp_inf = str(loss).replace('.', ',')
         sh.sheet1.update(('A' + str(i)), str(i))
-        sh.sheet1.update(('B' + str(i)), temp_inf)
-        print(temp_inf)
+        sh.sheet1.update(('B' + str(i)), str(loss))
+        print(loss)
