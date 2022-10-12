@@ -85,12 +85,18 @@
 
 ## Задание 2
 - Реализация скрипта по заполнению таблицы параметром loss через каждые 150 итераций, [ссылка на скрипт](https://github.com/caimanchik/secondLab/blob/main/loss_func.py)
-<img width="1792" alt="Снимок экрана 2022-10-12 в 12 51 00" src="https://user-images.githubusercontent.com/79734984/195288550-cf91ce5d-03b7-415e-9ba4-51b14442d01c.png">
-<img width="1792" alt="Снимок экрана 2022-10-12 в 12 51 31" src="https://user-images.githubusercontent.com/79734984/195288567-af9dde63-ac20-4595-a02c-95a07cc64693.png">
-
+<img width="1792" alt="Снимок экрана 2022-10-12 в 13 40 22" src="https://user-images.githubusercontent.com/79734984/195294591-c3dba69d-ac7c-4af2-9db9-ffb12e5b971a.png">
+<img width="1792" alt="Снимок экрана 2022-10-12 в 13 40 41" src="https://user-images.githubusercontent.com/79734984/195294594-37a2073a-d006-4cd6-bdf3-494a18bfa8c4.png">
+- Результат в таблице
+<img width="338" alt="Снимок экрана 2022-10-12 в 13 41 40" src="https://user-images.githubusercontent.com/79734984/195294749-9fe06eba-369f-4bf7-ade2-8d68a8b3b122.png">
 
 
 ## Задание 3
+- Изменение границ воспроизведения различных реплик в скрипте C#, изменение количества распарсившихся из JSON параметров, [ссылка на скрипт](https://github.com/caimanchik/secondLab/blob/main/NewBehaviourScript_loss.cs)
+<img width="1792" alt="Снимок экрана 2022-10-12 в 13 45 12" src="https://user-images.githubusercontent.com/79734984/195295737-bd2384b3-5ba6-4d77-bd60-16c24c0ac279.png">
+- Результат в Unity, опять скрин без звука(
+<img width="1792" alt="Снимок экрана 2022-10-12 в 13 47 00" src="https://user-images.githubusercontent.com/79734984/195295974-7133be62-ac32-4dcd-9e15-5fdeec648042.png">
+
 
 ## Выводы
 
